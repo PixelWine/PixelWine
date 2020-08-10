@@ -4,9 +4,9 @@
 **PixelWine/PixelWine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p align="center">
-[Blog](https://www.pixelwine.top) •
-[Twitter](https://twitter.com/pixelwine567) •
-[GitHub](https://github.com/pixelwine) •
-[Gitee](https://gitee.com/pixelwine) •
-[Telegram](https://t.me/pixelwine)
+<a href="https://www.pixelwine.top">Blog</a> •
+<a href="https://twitter.com/pixelwine567">Twitter</a> •
+<a href="https://github.com/pixelwine">GitHub</a> •
+<a href="https://gitee.com/pixelwine">Gitee</a> •
+<a href="https://t.me/pixelwine">Telegram</a>
 </p>
