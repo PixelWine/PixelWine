@@ -1,11 +1,11 @@
-<h3 align="center"> Hi 👋 I am Eric Liu (a.k.a. PixelWine)</h3>
+<h3 align="center"> Hi 👋 I am Eric Liu (a.k.a. PixelWine, Fagri, PWEL and so on)</h3>
 
 <!--
 **PixelWine/PixelWine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <p align="center">
-    <a href="https://www.pixelwine.top">Blog</a> •
+    <a href="https://blog.pixelwine.top">Blog</a> •
     <a href="https://github.com/pixelwine">GitHub</a> •
     <a href="https://gitee.com/pixelwine">Gitee</a> •
     <a href="https://twitter.com/pixelwine567">Twitter</a> •
@@ -21,4 +21,4 @@
 </a>
    
 <h3>More...</h3>
-Come to <a href="https://www.pixelwine.top">My Blog</a> to learn more about me!
+Come to <a href="https://blog.pixelwine.top">myBlog</a> to learn more about me!
