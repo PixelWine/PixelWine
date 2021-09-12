@@ -1,4 +1,4 @@
-<h3 align="center"> Hi 👋 I am Eric Liu (a.k.a. PixelWine, Fagri, PWEL and so on)</h3>
+<h3 align="center"> Hi 👋 This is Eric Liu (a.k.a. PixelWine, Fagri, PWEL and so on)</h3>
 
 <!--
 **PixelWine/PixelWine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
