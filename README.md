@@ -9,7 +9,8 @@
     <a href="https://github.com/pixelwine">GitHub</a> •
     <a href="https://gitee.com/pixelwine">Gitee</a> •
     <a href="https://twitter.com/pixelwine567">Twitter</a> •
-    <a href="https://t.me/pixelwine">Telegram</a>
+    <a href="https://t.me/pixelwine">Telegram</a> •
+    <a href="https://www.zhihu.com/people/pixelwine">Zhihu</a>
 </p>
     
 <h3>Github Stats</h3>
