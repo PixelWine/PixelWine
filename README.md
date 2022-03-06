@@ -5,7 +5,7 @@
 -->
 I am a **rookie** who can ***ONLY*** write good-looking README files (like [*2ndVerify* 's](https://github.com/PixelWineTeam/2ndVerify-Windows/blob/main/README.md)🤣)
 <p align="center">
-    <a href="https://blog.pixelwine.top">Blog</a> •
+    <a href="https://pixelwine.top">Blog</a> •
     <a href="https://github.com/pixelwine">GitHub</a> •
     <a href="https://gitee.com/pixelwine">Gitee</a> •
     <a href="https://twitter.com/pixelwine567">Twitter</a> •
