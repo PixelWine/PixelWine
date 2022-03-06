@@ -22,4 +22,4 @@ I am a **rookie** who can ***ONLY*** write good-looking README files (like [*2nd
 </a>
    
 <h3>More...</h3>
-Come to <a href="https://<!--blog.-->pixelwine.top">myBlog</a> to learn more about me!
+Come to <a href="https://pixelwine.top">myBlog</a> to learn more about me!
