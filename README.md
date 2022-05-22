@@ -3,7 +3,8 @@
 <!--
 **PixelWine/PixelWine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a **rookie** who can ***ONLY*** write good-looking README files (like [*2ndVerify* 's](https://github.com/PixelWineTeam/2ndVerify-Windows/blob/main/README.md)🤣)
+
+I am such a **rookie** that can ***ONLY*** write the README files (like [*2ndVerify* 's](https://github.com/PixelWineTeam/2ndVerify-Windows/blob/main/README.md)🤣)
 <p align="center">
     <a href="https://pixelwine.top">Blog</a> •
     <a href="https://github.com/pixelwine">GitHub</a> •
